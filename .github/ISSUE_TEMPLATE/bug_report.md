@@ -3,11 +3,12 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: jujinkim
+assignees: ''
 
 ---
 
 **Describe the bug**
+Project : [Project or application name] / Please set the project.
 A clear and concise description of what the bug is.
 
 **To Reproduce**
